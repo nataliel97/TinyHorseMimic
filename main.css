@@ -1,0 +1,196 @@
+body {
+    background-image: url('beach-birds-calm-clouds-219998.jpg');
+    background-size: cover;
+    position: relative;
+    padding-bottom: 50px;
+}
+
+.navbar-brand {
+    color: white !important;
+    text-transform: uppercase;
+}
+
+.nav-link {
+    color: white !important;
+    text-transform: uppercase;
+}
+
+.dropdown-item {
+    color: white !important;
+    text-transform: uppercase;
+}
+
+.mission {
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    position: relative;
+    top: 100px;
+    left: 40px;
+    font-size: 60px;
+}
+
+.jumbotron {
+    position: relative;
+    top: 100px;
+
+}
+
+
+
+.carousel {
+  width: 100%;
+  position: relative;
+  top: 300px;
+}
+
+.slide-box {
+  display: flex;
+  justify-content: space-between;
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .slide-box img {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .slide-box img {
+    -ms-flex: 0 0 33.3333%;
+    flex: 0 0 33.3333%;
+    max-width: 33.3333%;
+  }
+}
+
+@media (min-width: 992px)
+{
+  .slide-box img {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: .5rem;
+}
+
+.jumbotron {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    position: relative;
+    top: 300px;
+    background-color: #FFF5EE;
+    height: 650px;
+}
+
+.jumbotron p {
+    font-size: 35px;
+}
+
+.card-title {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+}
+
+.card-deck {
+    position: relative;
+    top: -240px;
+}
+
+.quotes {
+    background-color: white;
+    position: relative;
+    top: -150px;
+}
+
+.card-text {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 25px;
+    line-height: 2;
+}
+
+.authorOne{
+    font-style: italic;
+}
+
+.authorTwo {
+    font-style: italic;
+}
+
+.authorThree {
+    font-style: italic;
+}
+
+
+.card p {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.nameOne {
+    font-weight: bold;
+}
+
+.nameTwo {
+    font-weight: bold;
+}
+
+.nameThree {
+    font-weight: bold;
+}
+
+.banner {
+    background-image: url('https://i.pinimg.com/originals/d3/c7/14/d3c714bc7c630154a8fc4b37b0537cfa.jpg');
+    padding: 100px;
+    position: relative;
+    top: -150px;
+    padding-top: 50px;
+    color: white;
+    padding-bottom: 60px;
+}
+
+
+.analog {
+    font-family: Georgia, serif;
+    font-size: 40px;
+}
+
+.footer {
+    color: white;
+}
+
+.footerSize {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: #20212E;
+    position: relative;
+    top: -150px;
+}
+
+.bottomFooterText{
+    color: #7D8DC0;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 10px;
+}
+
+.bottom {
+    background-color: #20212E;
+    position: relative;
+    top: -150px;
+}
+
+
+
+
+
+
+
+
+
+
+
