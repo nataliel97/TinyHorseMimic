@@ -18,7 +18,9 @@ body {
 .dropdown-item {
     color: white !important;
     text-transform: uppercase;
+    background-color: black !important;
 }
+
 
 .mission {
     color: white;
