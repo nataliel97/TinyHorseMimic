@@ -2,7 +2,6 @@ body {
     background-image: url('https://tinyhorse.com/wp-content/uploads/2019/04/tiny-horse-marketing-agency-header.jpg');
     background-size: 1300px;
     position: relative;
-    padding-bottom: 50px;
     background-position: 0px -550px;
 }
 
@@ -127,7 +126,7 @@ div.card-bodyTwo {
 }
 
 .card-text {
-    font-family: "Times New Roman", Times, serif;
+    font-family: "big-caslon-fb", serif;
     font-size: 25px;
     line-height: 2;
     background-color: white;
@@ -199,9 +198,9 @@ div.card-bodyTwo {
 }
 
 .bottomFooterText{
-    color: #7D8DC0;
+    color: #5C7C91;
     font-family: "sans-serif";
-    font-size: 10px;
+    font-size: 12px;
 }
 
 .bottom {
