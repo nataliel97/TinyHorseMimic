@@ -5,6 +5,10 @@ body {
     padding-bottom: 50px;
 }
 
+.nav-item {
+    font-family: "cardo", HelveticaNeue;
+}
+
 .navbar-brand {
     color: white !important;
     text-transform: uppercase;
@@ -97,11 +101,17 @@ body {
     text-align: center;
     font-family: "Times New Roman", Times, serif;
     font-size: 30px;
+    background-color: #FAEDED !important;
 }
 
 .card-deck {
     position: relative;
     top: -240px;
+    background-color: #FAEDED !important;
+}
+
+div.card-body {
+    background-color: #FAEDED !important;
 }
 
 .quotes {
