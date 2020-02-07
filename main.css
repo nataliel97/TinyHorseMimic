@@ -1,8 +1,16 @@
-body {
+.palmTrees {
     background-image: url('https://tinyhorse.com/wp-content/uploads/2019/04/tiny-horse-marketing-agency-header.jpg');
     background-size: 1300px;
     position: relative;
     background-position: 0px -550px;
+}
+
+body {
+    height: 2100px !important;
+}
+
+div.dropdown-menu.show {
+    background-color: 
 }
 
 .nav-item {
