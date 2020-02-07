@@ -30,7 +30,12 @@ div.dropdown-menu.show {
 .dropdown-item {
     color: white !important;
     text-transform: uppercase;
-    background-color: #272525 !important;
+}
+
+a.dropdown-item:hover {
+    background: #5c7c91;
+    color: white;
+
 }
 
 
@@ -131,6 +136,7 @@ div.card-bodyTwo {
     background-color: white;
     position: relative;
     top: -150px;
+    border-style: none;
 }
 
 .card-text {
@@ -217,7 +223,6 @@ div.card-bodyTwo {
     top: -150px;
     padding-bottom: 10px;
 }
-
 
 
 
