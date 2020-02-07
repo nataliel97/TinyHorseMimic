@@ -39,7 +39,7 @@ body {
 .jumbotron {
     position: relative;
     top: 100px;
-    background-color: #FAEDED !important;
+    background-color: #F4EAE9 !important;
 }
 
 
@@ -85,12 +85,12 @@ body {
   border-radius: .5rem;
 }
 
-.jumbotron {
+.jumbotron-fluid {
     text-align: center;
-    font-family: "Times New Roman", Times, serif;
+    font-family: serif;
     position: relative;
     top: 300px;
-    background-color: #FFF5EE;
+    background-color: #F4EAE9;
     height: 650px;
 }
 
