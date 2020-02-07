@@ -1,8 +1,9 @@
 body {
-    background-image: url('beach-birds-calm-clouds-219998.jpg');
-    background-size: cover;
+    background-image: url('https://tinyhorse.com/wp-content/uploads/2019/04/tiny-horse-marketing-agency-header.jpg');
+    background-size: 1300px;
     position: relative;
     padding-bottom: 50px;
+    background-position: 0px -550px;
 }
 
 .nav-item {
