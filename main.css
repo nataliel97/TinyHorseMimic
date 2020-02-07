@@ -34,9 +34,8 @@ body {
 .jumbotron {
     position: relative;
     top: 100px;
-
+    background-color: #FAEDED !important;
 }
-
 
 
 .carousel {
