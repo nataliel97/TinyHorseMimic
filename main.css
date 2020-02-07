@@ -10,7 +10,7 @@ body {
 }
 
 div.dropdown-menu.show {
-    background-color: 
+    background-color: #272525;
 }
 
 .nav-item {
@@ -30,7 +30,7 @@ div.dropdown-menu.show {
 .dropdown-item {
     color: white !important;
     text-transform: uppercase;
-    background-color: black !important;
+    background-color: #272525 !important;
 }
 
 
