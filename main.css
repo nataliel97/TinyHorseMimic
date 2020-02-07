@@ -28,8 +28,8 @@ body {
 
 
 .mission {
-    color: white;
-    font-family: "Times New Roman", Times, serif;
+    color: #F4EAE9;
+    font-family: serif;
     position: relative;
     top: 100px;
     left: 40px;
@@ -102,17 +102,17 @@ body {
     text-align: center;
     font-family: "Times New Roman", Times, serif;
     font-size: 30px;
-    background-color: #FAEAE9 !important;
+    background-color: #F4EAE9 !important;
 }
 
 .card-deck {
     position: relative;
     top: -240px;
-    background-color: #FAEAE9 !important;
+    background-color: #F4EAE9 !important;
 }
 
 div.card-body {
-    background-color: #FAEAE9 !important;
+    background-color: #F4EAE9 !important;
 }
 
 .quotes {
