@@ -92,6 +92,7 @@ body {
     top: 300px;
     background-color: #F4EAE9;
     height: 650px;
+
 }
 
 .jumbotron p {
@@ -100,7 +101,7 @@ body {
 
 .card-title {
     text-align: center;
-    font-family: "Times New Roman", Times, serif;
+    font-family: serif;
     font-size: 30px;
     background-color: #F4EAE9 !important;
 }
@@ -115,6 +116,10 @@ div.card-body {
     background-color: #F4EAE9 !important;
 }
 
+div.card-bodyTwo {
+    background-color: white;
+}
+
 .quotes {
     background-color: white;
     position: relative;
@@ -125,6 +130,8 @@ div.card-body {
     font-family: "Times New Roman", Times, serif;
     font-size: 25px;
     line-height: 2;
+    background-color: white;
+
 }
 
 .authorOne{
