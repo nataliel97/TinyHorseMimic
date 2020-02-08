@@ -227,7 +227,10 @@ div.card-bodyTwo {
 
 .carouselBack {
     background-image: url('https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Horse-Agency-Gradient.jpg');
-    
+    position: relative;
+    background-size: contain;
+    padding-top: 10px;
+
 }
 
 
